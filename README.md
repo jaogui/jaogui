@@ -43,8 +43,8 @@ joao.goal()
 - 🔹 [**Compra_Venda_Cripto**](https://github.com/jaogui/Compra_Venda_Cripto)  
   Sistema de compra e venda de criptomoedas com Python.
 
-- 🔹 [**Robolris**](https://github.com/jaogui/Robolris)  
-  Iniciação à robótica com Python e Ros2.
+- 🔹 [**SpotFEI**](https://github.com/jaogui/SpotFEI-JAVA)  
+  Sistema feito em JAVA com inspiração nas funcionalidades do Spotify.
 
 ---
 
