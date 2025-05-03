@@ -1,8 +1,18 @@
 <h1 align="center">Olá, eu sou o João 👋</h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200" alt="Avatar de João"/>
-</p>
+```python
+class Programmer:
+    def __init__(self, name, age, location):
+        self.name = name
+        self.age = age
+        self.location = location
+
+    def goal(self):
+        print("Be a top performer in my field!")
+
+joao = Programmer("João Guilherme", 20, "São Bernardo do Campo - SP")
+joao.goal()
+```
 
 <p align="center">
   <strong>Estudante de Ciência da Computação na FEI 🎓</strong><br>
@@ -11,12 +21,16 @@
 
 ---
 
-### 🚀 Tecnologias que uso
+### 🚀 Tecnologias que uso 🔥
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
@@ -30,20 +44,7 @@
   Sistema de compra e venda de criptomoedas com Python.
 
 - 🔹 [**Robolris**](https://github.com/jaogui/Robolris)  
-  Iniciação à robótica com Python e RoboD.
-
----
-
-### 🌐 Vamos nos conectar!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/seu-link-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  Iniciação à robótica com Python e Ros2.
 
 ---
 
@@ -60,6 +61,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="GIF programando" />
 </p>
 
-<p align="center">
-  ✨ Obrigado por visitar meu perfil! ✨
+
+### 🌐 Vamos nos conectar!
+
+<p align="left">
+  <a href="www.linkedin.com/in/joão-guilherme-faber-80b485332" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joaog.faber@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
