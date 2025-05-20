@@ -65,7 +65,7 @@ joao.goal()
 ### 🌐 Vamos nos conectar!
 
 <p align="left">
-  <a href="www.linkedin.com/in/joão-guilherme-faber-80b485332" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-guilherme-faber-80b485332/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:joaog.faber@gmail.com">
