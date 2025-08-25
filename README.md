@@ -13,13 +13,15 @@ joao.goal()
 ```
 
 <p align="center">
-  <strong>Estudante de Ciência da Computação na FEI 🎓</strong><br>
-  Apaixonado por programação, tecnologia e projetos criativos!
+  <strong>Computer Science Student at FEI 🎓</strong><br>
+  Passionate about programming, technology, and creative projects! 🚀<br><br>
+  Currently serving as <strong>Software Team Leader</strong> of <strong>RoboFEI@Home</strong>, a RoboCup@Home league team dedicated to advancing cutting-edge service robotics technologies.<br>
+  In this role, I lead and drive the development of innovative software solutions that enhance our robots’ intelligence, autonomy, and ability to interact naturally with humans in real-world scenarios.
 </p>
 
 ---
 
-### 🚀 Tecnologias que uso 🔥
+### 🚀 Technologies I use 🔥
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -29,20 +31,22 @@ joao.goal()
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
 </p>
 
 ---
 
-### 💼 Projetos em destaque
+### 💼 Featured Projects
 
 - 🔹 [**Batalha-Pokemon-C**](https://github.com/jaogui/Batalha-Pokemon-C)  
-  Simulação de batalhas em C, inspirado no universo Pokémon.
+  A battle simulation in C inspired by the Pokémon universe.
   
 - 🔹 [**Compra_Venda_Cripto**](https://github.com/jaogui/Compra_Venda_Cripto)  
-  Sistema de compra e venda de criptomoedas com Python.
+  A cryptocurrency trading system developed in Python.
 
 - 🔹 [**SpotFEI**](https://github.com/jaogui/SpotFEI-JAVA)  
-  Sistema feito em JAVA com inspiração nas funcionalidades do Spotify.
+  A music platform in Java inspired by Spotify’s core features.
 
 ---
 
@@ -60,7 +64,7 @@ joao.goal()
 </p>
 
 
-### 🌐 Vamos nos conectar!
+### 🌐 Let´s connect!!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joão-guilherme-faber-80b485332/" target="_blank">
