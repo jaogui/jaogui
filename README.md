@@ -1,5 +1,3 @@
-<h1 align="center">Olá, eu sou o João 👋</h1>
-
 ```python
 class Programmer:
     def __init__(self, name, age, location):
