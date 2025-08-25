@@ -15,7 +15,7 @@ joao.goal()
 <p align="center">
   <strong>Computer Science Student at FEI 🎓</strong><br>
   Passionate about programming, technology, and creative projects! 🚀<br><br>
-  Currently serving as <strong>Software Team Leader</strong> of <strong>RoboFEI@Home</strong>, a RoboCup@Home league team dedicated to advancing cutting-edge service robotics technologies.<br>
+  Currently serving as <strong>Software Team Member</strong> of <strong>RoboFEI@Home</strong>, a RoboCup@Home league team dedicated to advancing cutting-edge service robotics technologies.<br>
   In this role, I lead and drive the development of innovative software solutions that enhance our robots’ intelligence, autonomy, and ability to interact naturally with humans in real-world scenarios.
 </p>
 
@@ -39,10 +39,10 @@ joao.goal()
 
 ### 💼 Featured Projects
 
-- 🔹 [**Batalha-Pokemon-C**](https://github.com/jaogui/Batalha-Pokemon-C)  
+- 🔹 [**Pokemon-Battle-C**](https://github.com/jaogui/Batalha-Pokemon-C)  
   A battle simulation in C inspired by the Pokémon universe.
   
-- 🔹 [**Compra_Venda_Cripto**](https://github.com/jaogui/Compra_Venda_Cripto)  
+- 🔹 [**Crypto_Trading_System**](https://github.com/jaogui/Compra_Venda_Cripto)  
   A cryptocurrency trading system developed in Python.
 
 - 🔹 [**SpotFEI**](https://github.com/jaogui/SpotFEI-JAVA)  
