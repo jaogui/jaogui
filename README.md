@@ -32,7 +32,7 @@ joao.goal()
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://cdn.prod.website-files.com/66a37d395dfadcdb65dcdf45/66df897f59bcd188d3914932_hero.webp" alt="ROS2" width="40px" />
+  <img src="https://cdn.prod.website-files.com/66a37d395dfadcdb65dcdf45/66df897f59bcd188d3914932_hero.webp" alt="ROS2" width="80px" />
 
 
 </p>
