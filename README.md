@@ -20,6 +20,15 @@ joao.goal()
 </p>
 
 ---
+---
+
+### 📄 Meu Currículo Online
+
+Você pode acessar meu currículo completo, com projetos e experiências, no link abaixo:
+
+🔗 **[Clique aqui para visualizar meu Currículo Online](https://jaogui.github.io/Curriculo-Online/)**  
+
+
 
 ### 🚀 Technologies I use 🔥
 
