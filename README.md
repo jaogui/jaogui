@@ -32,7 +32,7 @@ joao.goal()
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="[https://roboticsbackend.com/wp-content/uploads/2022/04/ros_logo.png](https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2Fhow-to-install-ros2-humble-gazebo-on-mac-m1-m2-m3-silicon-v0-C2K6c-aP-bt1ZYgWr3yrVo0hpXi6z0HccGDQproNYy4.jpg%3Fauto%3Dwebp%26s%3D97280ef52e9b7f836fe06ae403a5cb926f879829)" alt="ROS2" width="40px" />
+  <img src="https://cdn.prod.website-files.com/66a37d395dfadcdb65dcdf45/66df897f59bcd188d3914932_hero.webp" alt="ROS2" width="40px" />
 
 
 </p>
