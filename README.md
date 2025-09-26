@@ -28,6 +28,8 @@ Você pode acessar meu currículo completo, com projetos e experiências, no lin
 
 🔗 **[Clique aqui para visualizar meu Currículo Online](https://jaogui.github.io/Curriculo-Online/)**  
 
+---
+---
 
 
 ### 🚀 Technologies I use 🔥
