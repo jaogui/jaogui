@@ -20,15 +20,16 @@ joao.goal()
 </p>
 
 ---
----
 
-### 📄 Meu Currículo Online
+### 📄 My Resume
 
-Você pode acessar meu currículo completo, com projetos e experiências, no link abaixo:
+You can access my full resume, with projects and experiences, using the icon below:
 
-🔗 **[Clique aqui para visualizar meu Currículo Online](https://jaogui.github.io/Curriculo-Online/)**  
+<a href="https://jaogui.github.io/Curriculo-Online/" target="_blank">
+  <img src="https://img.shields.io/badge/Currículo%20Online-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
 
----
+
 ---
 
 
