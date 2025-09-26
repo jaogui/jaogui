@@ -26,7 +26,7 @@ joao.goal()
 You can access my full resume, with projects and experiences, using the icon below:
 
 <a href="https://jaogui.github.io/Curriculo-Online/" target="_blank">
-  <img src="https://img.shields.io/badge/Currículo%20Online-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Online%20Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 
 
