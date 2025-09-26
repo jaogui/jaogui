@@ -32,7 +32,7 @@ joao.goal()
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png](https://roboticsbackend.com/wp-content/uploads/2022/04/ros_logo.png)" width="40px" alt="ROS2 Logo" />
+    <img src="https://roboticsbackend.com/wp-content/uploads/2022/04/ros_logo.png" alt="ROS2" width="40px" />
 
 
 </p>
