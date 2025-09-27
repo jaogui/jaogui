@@ -13,7 +13,7 @@ joao.goal()
 ```
 
 <p align="center">
-  <strong>Computer Science Student at FEI 🎓</strong><br>
+  <strong>Computer Science Student at <a href="https://portal.fei.edu.br/"><b>Centro Universitário FEI</b></a>. 🎓</strong><br>
   Passionate about programming, technology, and creative projects! 🚀<br><br>
   Currently serving as <strong>Software Team Member</strong> of <strong>RoboFEI@Home</strong>, a RoboCup@Home league team dedicated to advancing cutting-edge service robotics technologies.<br>
   In this role, I lead and drive the development of innovative software solutions that enhance our robots’ intelligence, autonomy, and ability to interact naturally with humans in real-world scenarios.
