@@ -64,20 +64,6 @@ You can access my full resume, with projects and experiences, using the icon bel
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaogui&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaogui&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="GIF programando" />
-</p>
-
-
 ### 🌐 Let´s connect!!
 
 <p align="left">
