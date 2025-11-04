@@ -33,34 +33,47 @@ You can access my full resume, with projects and experiences, using the icon bel
 ---
 
 
-### 🚀 Technologies I use 🔥
+### 🚀 Programming Languages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://cdn.prod.website-files.com/66a37d395dfadcdb65dcdf45/66df897f59bcd188d3914932_hero.webp" alt="ROS2" width="80px" />
-
-
-</p>
+<p align="center">   <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js" /><br><br>
+<small>Python • C • C++ • Java • JavaScript</small> </p>
 
 ---
+### 🔥 Tools & Technologies
 
+<p align="center">   <img src="https://skillicons.dev/icons?i=html,css,postgres,sqlite,md,linux,ros,arduino,nodejs,react,aws" />
+<br><br>
+<small>HTML5 • CSS3 • PostgreSQL • SQLite • Markdown • Linux • ROS2 Humble • Arduino • Node.js • React • AWS</small> </p> <p align="center"> 
+
+    
+---
 ### 💼 Featured Projects
 
-- 🔹 [**Pokemon-Battle-C**](https://github.com/jaogui/Batalha-Pokemon-C)  
-  A battle simulation in C inspired by the Pokémon universe.
-  
-- 🔹 [**Crypto_Trading_System**](https://github.com/jaogui/Compra_Venda_Cripto)  
-  A cryptocurrency trading system developed in Python.
+<br>
 
-- 🔹 [**SpotFEI**](https://github.com/jaogui/SpotFEI-JAVA)  
-  A music platform in Java inspired by Spotify’s core features.
+### [**SpotFEI**](https://github.com/jaogui/SpotFEI-JAVA)
+A music platform in Java inspired by Spotify. The project demonstrates Object-Oriented Programming principles, allowing users to manage playlists, browse, and 'play' music.
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+<hr style="border: 0; height: 1px; background: #30363d; margin-top: 20px; margin-bottom: 20px;">
+
+### [**Crypto Trading System**](https://github.com/jaogui/Compra_Venda_Cripto)
+A cryptocurrency trading simulation system developed in Python. It allows users to create accounts, deposit funds, and simulate buy/sell transactions for different cryptocurrencies.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<hr style="border: 0; height: 1px; background: #30363d; margin-top: 20px; margin-bottom: 20px;">
+
+### [**Pokemon Battle C**](https://github.com/jaogui/Batalha-Pokemon-C)
+A battle simulation in C inspired by the Pokémon universe. The project focuses on data structure manipulation and turn-based logic, all running directly in the terminal.
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+<br>
 
 ---
 
