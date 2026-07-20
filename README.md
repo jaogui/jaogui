@@ -8,15 +8,15 @@ class Programmer:
     def goal(self):
         print("Be a top performer in my field!")
 
-joao = Programmer("João Guilherme", 20, "São Bernardo do Campo - SP")
+joao = Programmer("João Guilherme", 22, "São Bernardo do Campo - SP")
 joao.goal()
 ```
 
 <p align="center">
   <strong>Computer Science Student at <a href="https://portal.fei.edu.br/"><b>Centro Universitário FEI</b></a>. 🎓</strong><br>
-  Passionate about programming, technology, and creative projects! 🚀<br><br>
-  Currently serving as <strong>Software Team Member</strong> of <strong>RoboFEI@Home</strong>, a RoboCup@Home league team dedicated to advancing cutting-edge service robotics technologies.<br>
-  In this role, I lead and drive the development of innovative software solutions that enhance our robots’ intelligence, autonomy, and ability to interact naturally with humans in real-world scenarios.
+  Passionate about software development, technology, and creative projects! 🚀<br><br>
+  Always looking for new challenges to build innovative and efficient solutions.<br>
+  Currently focused on building dynamic applications and exploring technologies like Python, C, Java, JavaScript, React, and Node.js.
 </p>
 
 ---
