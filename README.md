@@ -59,10 +59,15 @@ A music platform in Java inspired by Spotify. The project demonstrates Object-Or
 
 <hr style="border: 0; height: 1px; background: #30363d; margin-top: 20px; margin-bottom: 20px;">
 
-### [**Crypto Trading System**](https://github.com/jaogui/Compra_Venda_Cripto)
-A cryptocurrency trading simulation system developed in Python. It allows users to create accounts, deposit funds, and simulate buy/sell transactions for different cryptocurrencies.
+### [**Polyglot Persistence**](https://github.com/jaogui/Polyglot-Persistence)
+An academic database project demonstrating the concept of Polyglot Persistence: using multiple databases within the same application based on data types and purposes. It features an internal corporate system (AuroraTech) built with a Node.js backend that dynamically interacts with Supabase, MongoDB, Cassandra, and Firebase.
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 <hr style="border: 0; height: 1px; background: #30363d; margin-top: 20px; margin-bottom: 20px;">
